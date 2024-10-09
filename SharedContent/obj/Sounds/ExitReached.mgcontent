@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>C:/Users/asalinas/Documents/visual studio 2017/Projects/Platformer/Platformer/SharedContent/Sounds/ExitReached.wma</SourceFile>
+  <SourceTime>2011-06-13T04:20:48+02:00</SourceTime>
+  <DestFile>C:/Users/asalinas/Documents/visual studio 2017/Projects/Platformer/Platformer/SharedContent/bin/Sounds/ExitReached.xnb</DestFile>
+  <DestTime>2017-06-12T17:53:45.6622276+02:00</DestTime>
+  <Importer>WmaImporter</Importer>
+  <ImporterTime>2017-03-01T16:05:36+01:00</ImporterTime>
+  <Processor>SoundEffectProcessor</Processor>
+  <ProcessorTime>2017-03-01T16:05:36+01:00</ProcessorTime>
+  <Parameters>
+    <Key>Quality</Key>
+    <Value>Best</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>
